@@ -1844,12 +1844,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
 
     elif query.data == "users":
-        buttons = [
-            [InlineKeyboardButton("batch",)]
-            [
-            InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='help')
-            ]
-            ]
+        buttons = [[InlineKeyboardButton('⇋ ʙᴀᴄᴋ ⇋', callback_data='help')]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.USERS_TXT.format(query.from_user.mention),
