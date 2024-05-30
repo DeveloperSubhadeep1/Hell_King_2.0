@@ -98,9 +98,9 @@ Bʏ @Hell_King_69_Bot"""
 
 📚 ʜᴇʀᴇ ᴀʀᴇ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ ꜰᴏʀ ᴀʟʟ ʙᴏᴛ ᴜꜱᴇʀꜱ ⇊
  
-• /song - ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ sᴏɴɢ <code>example /song vaa vaathi song</code>.    
+• /song - ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ sᴏɴɢ example /song vaa vaathi song.    
 • /telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code> 
-• /tts - <code>This command usage text to voice converter</code> 
+• /tts - This command usage text to voice converter.
 • /video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
 • /font - This command usage stylish and cool font generator [<code>example /font hi</code>]
 • /batch - ᴄʀᴇᴀᴛᴇ ᴀ ʙᴀᴛᴄʜ ʟɪɴᴋ ᴏғ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs.
